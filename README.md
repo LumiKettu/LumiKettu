@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LumiKettu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP, Javascript
+- 🌱 I’m currently learning Javascript
 
 <!---
 LumiKettu/LumiKettu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
