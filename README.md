@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LumiKettu
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP, Javascript
 
 <!---
